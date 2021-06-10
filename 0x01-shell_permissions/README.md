@@ -1,0 +1,1 @@
+scripts to manuplate linux terminal/shell permissions
