@@ -1,0 +1,1 @@
+this repository is dedicated for learning shell commands and writing scripts in-depth.
