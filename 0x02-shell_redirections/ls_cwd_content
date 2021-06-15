@@ -1,0 +1,22 @@
+total 80
+drwxr-xr-x 2 root root 4096 Jun 15 12:00 .
+drwxr-xr-x 7 root root 4096 Jun 15 07:20 ..
+-rwxr--r-- 1 root root   30 Jun 14 05:38 0-hello_world
+-rwxr--r-- 1 root root   43 Jun 15 03:40 11-directories
+-rwxr--r-- 1 root root   25 Jun 15 03:45 12-newest_files
+-rwxr--r-- 1 root root   34 Jun 15 04:15 14-findthatword
+-rwxr--r-- 1 root root   36 Jun 15 04:20 15-countthatword
+-rwxr--r-- 1 root root   41 Jun 15 04:32 16-whatsnext
+-rwxr--r-- 1 root root   38 Jun 15 04:39 17-hidethisword
+-rwxr--r-- 1 root root   25 Jun 15 05:34 19-AZ
+-rwxr--r-- 1 root root   30 Jun 15 11:36 1-confused_smiley
+-rwxr--r-- 1 root root   23 Jun 15 05:45 20-hiago
+-rwxr--r-- 1 root root   16 Jun 15 05:50 21-reverse
+-rwxr--r-- 1 root root   28 Jun 15 02:41 2-hellofile
+-rwxr--r-- 1 root root   39 Jun 15 02:42 3-twofiles
+-rwxr--r-- 1 root root   29 Jun 15 02:45 4-lastlines
+-rwxr--r-- 1 root root   29 Jun 15 02:47 5-firstlines
+-rwxr--r-- 1 root root   36 Jun 15 02:51 6-third_line
+-rwxr--r-- 1 root root   57 Jun 15 02:56 8-cwd_state
+-rw-r--r-- 1 root root    0 Jun 15 12:00 ls_cwd_content
+-rw-r--r-- 1 root root   86 Jun 14 05:32 README.md
